@@ -9,6 +9,9 @@ def print1():
 #this is main fuction
 def odd_even():
     #function for odd_even
+#new function for fork and git pull request
+def print2():
+    print("hii this function is buit by fork and using git pull request")
 def main():
     print1()
     if check_rebot():
